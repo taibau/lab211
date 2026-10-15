@@ -1,0 +1,12 @@
+/Apache NetBeans/
+/Apache-NetBeans-31.exe
+
+# Java build output
+**/build/
+**/dist/
+**/target/
+**/out/
+**/*.class
+
+# NetBeans user-specific settings
+**/nbproject/private/
